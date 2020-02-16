@@ -1,4 +1,4 @@
-package com.kunal.spring.unit_converter.Unit.Converter;
+package com.kunal.spring.unit_converter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
